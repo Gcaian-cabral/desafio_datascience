@@ -6,6 +6,7 @@ Dashboard interativo para visualizar dados de uma database de gêneros musicais.
 ## Run the app
 ```Powershell
 # vanilla terminal
+pipenv shell
 pip install -r requirements.txt
 streamlit run myapp.py
 
